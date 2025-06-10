@@ -46,7 +46,7 @@ const Navbar = ({ toggleTheme, theme }) => {
 
   return (
     <Container>
-      <Logo to="/">PixAI</Logo>
+      <Logo to="/">Pixoreo</Logo>
       <div style={{ display: "flex", alignItems: "center" }}>
         {path[1] === "post" ? (
           <Button
