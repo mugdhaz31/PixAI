@@ -23,7 +23,7 @@ const SearchBox = ({ search, handleChange }) => {
       <SearchOutlined sx={{ color: "inherit" }} />
       <input
         type="text"
-        placeholder="Search AI creations, artists, or prompts..."
+        placeholder="Search AI creations, prompts..."
         style={{
           border: "none",
           outline: "none",

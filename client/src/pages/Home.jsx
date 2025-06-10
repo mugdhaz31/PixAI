@@ -105,7 +105,7 @@ const Home = () => {
     <Container>
       <HeadLine>
         Discover Stunning AI-Created Artworks!
-        <Span>⦾ Powered by PixAI ⦾</Span>
+        <Span>⦾ Powered by Pixoreo ⦾</Span>
       </HeadLine>
        <SearchBox
         search={search}
